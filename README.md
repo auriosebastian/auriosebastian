@@ -34,7 +34,7 @@ Atualmente participo do **NASA Space Apps Challenge 2025 (Angola)**, colaborando
 - 🎓 **Formação**: Concluí os 3 módulos do CCNA, estudando continuamente novas tecnologias.  
 - 🌐 **Experiência adicional**: Hospedagem de sites, administração de Windows Server e Linux.  
 - 💬 **Fala comigo sobre**: C#, .NET MAUI, React, ESP32, automação, redes e projetos inovadores.  
-- 📫 **Contato**: [seuemail@gmail.com]  
+- 📫 **Contato**: [sebastiaurio831@gmail.com]  
 
 ---
 
